@@ -16,9 +16,10 @@ import paits5 from '../images/hobby/nahen/paits5.jpg'
 import shorts1 from '../images/hobby/nahen/shorts1.jpg'
 import shorts2 from '../images/hobby/nahen/shorts2.jpg'
 import lol from '../images/Lol.png'
+import bluse from '../images/hobby/nahen/bluse.jpeg'
 
 export const tailor =[
-    hemd1,hemd2,hemd3,hemd4,hemd5,kleid1,kleid2,kleid3,kleid4,kleid5,paits1,paits2,paits3,paits4,paits5,shorts1,shorts2
+    hemd1,hemd2,hemd3,hemd4,hemd5,kleid1,kleid2,kleid3,kleid4,kleid5,paits1,paits2,paits3,paits4,paits5,shorts1,shorts2,bluse
 ]
 
 export const icons ={

@@ -8,6 +8,8 @@ import space from "../images/hobby/paint/space.jpg";
 import tirp from "../images/hobby/paint/tirp.png";
 import tirp2 from "../images/hobby/paint/tirp2.jpg";
 import bart from "../images/hobby/paint/bart.png";
+import girl3 from "../images/hobby/paint/girl3.jpeg";
+import girl4 from "../images/hobby/paint/girl4.jpeg";
 
 // import paint_img from "../images/animated/drawing.gif";
 // import sad_cat from "../images/sad_cat.png";
@@ -24,6 +26,8 @@ export const paint = [
     tirp,
     tirp2,
     bart,
+    girl3,
+    girl4
 ];
 
 // export const smail = {
